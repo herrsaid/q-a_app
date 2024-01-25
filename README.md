@@ -31,10 +31,6 @@ Install dependencies for the frontend:
     cd frontend
     npm install
 
-Install dependencies for the frontend:
-
-    cd frontend
-    npm install
 
 Install dependencies for the backend:
     cd ../backend
