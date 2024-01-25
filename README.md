@@ -20,17 +20,18 @@ Before running the project, ensure that you have the following software installe
 Navigate to the project root:
     cd q-a_app
 
+setup the database
+    docker compose up -d
+
 Install dependencies for the frontend:
-
-
-
     cd frontend
-
-npm install
+    npm install
 
 Install dependencies for the backend:
     cd ../backend
     npm install
+    npx prisma migrate dev --name initial
+    npx prisma generate
 
 Running the Project
 
