@@ -21,7 +21,7 @@ Before running the project, ensure that you have the following software installe
 
     
 
-cd your-project
+cd q-a_app
 
 Install dependencies for the frontend:
 
