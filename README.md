@@ -17,7 +17,7 @@ Before running the project, ensure that you have the following software installe
    ```
    git clone https://github.com/herrsaid/q-a_app.git
 
-    Navigate to the project root:
+Navigate to the project root:
 
     
 
@@ -32,9 +32,6 @@ cd frontend
 npm install
 
 Install dependencies for the backend:
-
-
-
     cd ../backend
     npm install
 
@@ -46,10 +43,9 @@ Navigate to the frontend folder:
 
 
 Run the development server:
-
     npm run dev
 
-    Visit http://localhost:3000 in your browser.
+Visit http://localhost:3000 in your browser.
 
 Backend
 
@@ -57,7 +53,6 @@ Navigate to the backend folder:
     cd ../backend
 
 Run the development server:
-
     npm run dev
 
 The backend server will start at http://localhost:1337.
