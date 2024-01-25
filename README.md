@@ -1,4 +1,4 @@
-# Project Name
+#  Q&A app
 
 This project is built with Next.js and consists of separate frontend and backend folders.
 
@@ -37,22 +37,15 @@ Install dependencies for the backend:
 
     cd ../backend
     npm install
-    # or
-    yarn
 
 Running the Project
 
 Frontend
+Navigate to the frontend folder:
+    cd ../frontend
 
-    Navigate to the frontend folder:
-
-    
-
-cd ../frontend
 
 Run the development server:
-
-bash
 
     npm run dev
 
@@ -60,17 +53,14 @@ bash
 
 Backend
 
-    Navigate to the backend folder:
-
-    
-
-cd ../backend
+Navigate to the backend folder:
+    cd ../backend
 
 Run the development server:
 
     npm run dev
 
-    The backend server will start at http://localhost:3001.
+The backend server will start at http://localhost:3001.
 
 Usage
 
