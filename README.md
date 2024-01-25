@@ -18,16 +18,13 @@ Before running the project, ensure that you have the following software installe
    git clone https://github.com/herrsaid/q-a_app.git
 
 Navigate to the project root:
-
-    
-
-cd q-a_app
+    cd q-a_app
 
 Install dependencies for the frontend:
 
 
 
-cd frontend
+    cd frontend
 
 npm install
 
