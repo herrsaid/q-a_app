@@ -16,10 +16,8 @@ export default function Login() {
 
   const handleSubmit = (e:any) => {
     e.preventDefault();
-    // Add your login logic here, e.g., send a request to your API
 
     console.log('Form submitted:', formData);
-    // Reset the form after submission
     setFormData({ email: '', password: '' });
   };
 
