@@ -21,7 +21,7 @@ Navigate to the project root:
 
     cd q-a_app
 
-setup the database
+setup the database:
     docker compose up -d
 
 Install dependencies for the frontend:
