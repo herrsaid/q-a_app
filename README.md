@@ -60,7 +60,7 @@ Run the development server:
 
     npm run dev
 
-The backend server will start at http://localhost:3001.
+The backend server will start at http://localhost:1337.
 
 Usage
 
